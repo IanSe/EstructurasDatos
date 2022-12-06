@@ -61,3 +61,5 @@ void InOrd(ArBin a){
         InOrd(derAB(a));
      }
 }
+
+int EsHoja(ArBin a){ return esvacioAB(izqAB(a))&&esvacioAB(derAB(a)); }
