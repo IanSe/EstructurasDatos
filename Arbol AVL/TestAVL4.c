@@ -5,11 +5,17 @@
 
 int main(){
     int i,e;
-    AVL x=vacioAB();
-	for(e=1;e<25;e++){
+	AVL x=vacioAB();
+	for(e=1;e<10;e++){
     	x=InsAVL(e,x);
 	}
-	ImpElem(ElMenor(derAB(x)));
+	PreOrd(x);
+	x = BorraAVL(4,x);
+	if(!EsAVL(x)){
+		HazAVL(x);
+	}
+	puts("\n");
+	PreOrd(x);
 	return 0;
 }
 
