@@ -1,0 +1,183 @@
+Afganistan Kabul Afgano Pastun Afgani 38000000 507
+Albania Tirana Albanes Albanes Lek 2800000 5353
+Alemania Berlin Aleman Aleman Euro 83000000 46467
+Andorra Andorra Andorrano Catalan Euro 77000000 40886
+Angola Luanda Angoleño Portugues Kwanza 31000000 2790
+AntiguayB SaintJohn Antiguano Ingles DolardCO 97000000 17112
+ArabiaSaudita Riad Saudita Arabe Riyal 34000000 23139
+Argelia Argel Argelino Arabe Dinar 43000000 3974
+Argentina BuenosAires Argentinos Español Peso 44000000 9912
+Armenia Erevan Armenio Armenio Dram 3000000 4622
+Aruba Oranjestad Arubano Neerlandes Florin 106000 29007
+Australia Canberra Australiano Ingles Dolar 25000000 55057
+Austria Viena Austriaco Aleman Euro 8000000 50121
+Azerbaiyan Baku Azeri Azeri Manat 10000000 4793
+Wallis-y-Futuna   Mata-Utu   Wasiliano   Frances   Franco   15289   12.640
+Macao Ciudad-de-Macao Macaense-Chino-y-Portugues pataca 640445 16950000
+Macedonia Skopie Macedonio-a Macedonio y Albanes Dener macedonio 2062294 802000
+Madagascar Antananarivo Malgache Frances Ariary Malgache 26969307 12600
+Malasia Kuala Lumpur Malayo Bahasa melayu Ringgit malayo 32523000 325762000
+Malawi Lilongue Malawi Ingles chichewa Kwacha malawi 18628747 1089
+Maldivas Male Maldivo-a Maldivo Rupia de maldivas 341256 7396000
+Mali Bamako Maliense Frances Franco CFA 20250834 40974000
+Malta La valeta Maltes Ingles Euro 5151000 2000000
+Mauritania Nouakchott Muaritano Arabe estandar Uguiya 735000 4005000
+Mexico Ciudad-de-Mexico Mexicano Espanol Peso 9209944 2616289
+Micronesia Palikir Palikirense Ingles Dolar estadounidense 113815 232000
+Moldavia Chisinau Moldavo Rumano Leu moldavo 3583288 25888
+Monaco Monaco Monegasco Frances Euro 3034 158971
+Mongolia Ulan Bator Mongol Mongol Tugrik mongol 680000 2260000
+Montenegro Podgorica Montenegrino Montenegrino Euro 621873 4568000
+Mozambique Maputo Mozambiqueo Portugues Metal mozambiqueno 30366036 13573
+Ucrania Kiev Ucraniano Ucrananio Grivna 44390000 3.294
+Uganda Kampala Ugandes Ingles Suajili Chelin-ugandes 44279000 794.34
+Uruguay Montevideo Uruguayo Espanol Peso-uruguayo 3462000 16190.13
+Uzbekistan Taskent Uzbeko Uzbeko Som-uzbeko 33580000 1724.84
+Cabo-Verde Praia caboverdiano portugues Escudo caboverdiano 549935 3603.78
+Camboya Nom Pen camboyano camboyano Riel camboyano 16490000 1643.12
+Camerun Yaunde camerunes frances CFA 25880000 1507.45
+Canada Otawa canadiense ingles Dolar canadiense 37590000 46194.73
+Ceylan Sri Lanka Sri Lanka tamil Rupia de Sri Lanka 21803000 3853.08
+Chad Yamena chadiano arabe CFA 15950000 709.54
+Checoslovaquia Praga checo checo Corona checoslovaca 10693939 19.970
+Chile Santiago chileno espanol Peso chileno 18950000 14896.45
+China Pekin chino chino Renminbi 13980000 10261.68
+Chipre Nicosia chipriota griego Euro 875899 27858.37
+Colombia Bogota colombiano espanol Peso colombiano 54340000 6428.68
+Comoras Moroni comorense arabe Franco comorense 850886 1370.15
+Congo Brazaville congoles frances Franco congoleno 5381000 580.72
+Corea-del-norte Pyongyang norcoreano coreano Won norcoreano 25670000 6040
+Corea-del-sur Seul surcoreano coreano Won surcoreano 51710000 31846.22
+Costa-Rica San-Jose costarricense espanol Colon costarricense 504800 12243.81
+Croacia Zagreb croata croata Kuna croata 407600 14936.10
+Cuba La-Habana cubano espanol Peso cubano 11330000 8821.82
+Curazao Willemstab curazaleno​ neerlandes Florin 157538 19689.14
+Haiti PuertoPrincipe Haitiano Gourde 1126000 1272.49
+Honduras Tegucigalpa Hondureno Lempira_hondureno 976000 2574.91
+HongKong Victoria hongkones dolar_hongkones 750700 48713.47
+Hungaria Budapest hungaros forinto_hungaro 977300 16731.82
+Namibia Windhoek Namibios Ingles DolarNamibio 2495000 4957
+Nauru Yaren Nauruanos Nauruano DolarAustraliano 12581 9396
+Nepal Katmandu Nepales Nepali RupiaNepali 28610000 1071
+Nicaragua Managua Nicaraguenses Espanol Cordoba 6546000 1912
+Niger Niamey Nigerinos Frances Franco 23310000 553
+Nigeria Abuya Nigerianos Ingles Naira 201000000 2229
+Niue Alofi Niueno Niuano DolarNeozelandes 1620 5800
+Noruega Oslo Noruegos Noruego CoronaNoruega 5328000 75419
+NuevaCaledonia Numea Neocaledonio Frances FrancoCFP 287800 12579
+NuevaZelanda Wellington Neozelandes Ingles DolarNeozelandes 4917000 42084
+Zambia Lusaka 	Zambiano Ingles Kwacha zambiano  1786000 22.90917
+Zimbabue Harare  Zimbabuense Ingles dólar 11465000  19.83585
+Bahamas Nasau bahameno Ingles Dólarbahameno 392718 488933.01
+Banglades Daca bangladesi Bengali Taka 151125000 108305.30
+Barbados Bridgetown barbadense Ingles Dolarbarbadense 279912 331073.01
+Barein Manama bareini Arabe dinarbareini 1234571 1031929.29
+Belgica Bruselas belga Neerlandes Euro 11550039 958481.09
+Belice Belmopan beliceno Ingles Dolarbeliceno 408484 170333.08
+Benin PortoNovoyCotonu Benines Frances FrancoCFA 12114193 43377.73
+Bielorrusia Minsk bielorruso Bielorruso Rublobielorruso 9413446 397390.89
+Birmania Naipyido birmano Birmano kyat 54409800 118236.10
+Bolivia Sucre boliviano	Espanol Boliviano 11633371 175417.65
+BosniayHerzegovina Sarajevo bosnioherzegovino Bosnio Marcobosnioherzegovino 3281000 266999.49
+Botsuana Gaborone botsuano Ingles Pula 2254126 374252.13
+Brasil Brasilia brasileno Portugues Realbrasileno 212216052 289244.48
+Brunei BandarSeriBegawan bruneano Malayo DolardeBrunei 417200 1543226.46
+Bulgaria Sofia bulgaro Bulgaro Lev 6951482 517076.89
+BurkinaFaso Uagadugu burkines Frances FrancoCFA 14017262 37319.95
+Burundi Gitega burundes Kirundi Francoburundes 11215578 16246.79
+Butan Timbu butanés dzongkha Ngultrumbutanes 790215 19615733.25
+Filipinas Manila   Filipino filipino Peso Filipino   108770   3700
+Finlandia Helsinki Fines    Ingles   Marco Finlandés 5564089 3000
+Fiyi Suva Fiyiano Fiyiano Dolar-fiyiano   899773   4000
+Francia Paris Frances Frances Euro 673202 3000
+Gabon Libreville Gabones FrancoXAF 1545255 19252
+Gambia Banjul Gambiano Dalasi 1593256 77781
+Georgia Tiflis Georgiano LariGeorgiano 4630000 469770
+Ghana Acra Ghanes Cedi 24339838 220212
+Gibraltar Gibraltar Gibraltareno LibraGibraltarena 27884 68125
+Grecia Atenas Griego Euro 11000000 1958254
+Groenlandia Nuuk Groenlandes CoronaDanesa 56375 5447096
+Guadalupe BasseTerre Guadalupeno 443000 21780
+Guam Agana Guameno Dolar 168564 3571256
+Guatemala CiudadDeGuatemala Guatemalteco Quetzal 13550440 461999
+Guinea Conakri Conakri Guinea 10324025 96284
+GuineaEcuatorial Malabo Ecuatoguineano FrancoXOF 1014999 813192
+GuineaBissAu Malabo Bisauguineano FrancoXOF 1565126 69729
+Guyana Georgetown Guyanes DolarGuyanes 748486 660959
+India Nueva_Delhi Indios Hindi Rupia_India 1372065957 2171
+Indonesia Yakarta Indonesio Indonesio Rupia_Indonesia 259903244 3870
+Irak Bagdad Iraqui Arabe/Kurdo Dinar_Iraqui 40853637 5758
+Iran Teheran Irani Persa Rial_Irani 82630945 4006
+Irlanda Dublin Irlandes Irlandes Euro 4857000 80641
+Islandia Reikiavik Islandes Islandes Corona_Islandesa 357050 70332
+Islas_Caiman George_Town Caimanes Ingles Dolar_Islas_Caiman 69000 35000
+Islas_Marshall Majuro Marshales Marshales USD 53066 2718
+Islas_Pitcairn Adamstown Pitcairnes Ingles Dolar_Neozelandes 56 0
+Islas_Salomon Honiara Salomonense Ingles Dolar_Islas_Salomon 642000 1553
+Israel Jerusalen Israeli Hebreo Nuevo_Sequel 8919350 42115
+Italia Roma Italiano Italiano Euro 60541000 32947
+Jamaica Kingston Jamaicano Ingles Dolarjamaicano 2948000 5582
+Japon Tokio Japones Japones Yen 126300000 40246
+Jordania Aman Jordano Arabe Dinarjordano 10100000 4405
+Kazajistan Nursultan Kazajos Kazajo Tenge 18897898 9812
+Kenia Nairobi Kenianos Suajili KES 47564296 1816
+Kirguistan Biskek Kirguisos Kirguis KGS 5548042 1309
+Kiribati Tarawa Kiribatianos Ingles DolarKiribatiano 110136 1655
+Kuwait Kuwait Kuwaities Arabe KWD 4052584 32000
+Laos Vientian lao laosiano Kiplaosiano 7169000 1865
+Letonia Riga leton leton Euro 1927675 17828
+Liberia Monrovia Ingles Liberiano Dolarliberiano 4937374 62189
+Liechtenstein Vaduz Aleman liechtensteiniano Francosuizo 38747 181402
+Lesotho Maseru Sesotho lesotense Loti 2125268 1118
+Libano Beirut Arabe Arabelibanes Libralibanesa 6855713 7583
+Libia Tripoli Arabe libio Dinarlibio 6578000 7685
+Lituania Vilna lituano Lituano Euro 2794090 19601
+Luxemburgo luxemburgues frances Luxemburgues Euro 613894 114704
+Pakistan Islamabad Urdu pakistan Rupia 21660000 1260000
+Palaos Ngerulmud Ingles Paluano Dolar 18008 1580000
+Panama Panama Espanol Panameno Balboa 42460000 78700000
+Papua_Nueva_Guinea Puerto_Moresbi Ingles Papu Kina 87760000 24830000
+Paraguay Asuncion Guarani Paraguayo Guarani 70450000 6780000
+Peru Lima Espanol Peruano Sol 32510000 4930000
+Polinesia_Francesa Papeete Frances Francopolinesio Franco_CFP 279287 2680000
+Polonia Varsovia Polaco Polaco Esloti 37970000 5430000
+Portugal Lisboa Portugues Portugues Euro 10280000 1420000
+Puerto_Rico San_Juan Espanol Puertorriqueno Dolar 31940000 4810000
+Tailandia Bangkok tailandes Tailandes​ Baht 69.63 7806.74
+Tanzania Dodoma Tanzano Suajili Chelin 58.01 1122.12
+Tayikistan Dusambe tayiko tayiko Somoni 9.321 870.79
+Timor Oriental Dili timorense Portugues 1.293 1560.51
+Togo Lome togoles frances Franco 8.082 679.29
+Tonga Nukualofa tongano tongano Panga 104494 4903.15
+Trinidad-y-Tobago Puerto-Espana trinitense ingles Dolar 1.395 17397.98
+Tunez Tunez tunecino Arabe Dinar 11.69 3317.45
+Turkmenistan Asjabad turkmeno turcomano Manat 5.942 6966.64
+Turquia Ankara turco Turco Lira 82 9126.56
+Tuvalu Fongafale tuvaluano ingles Tuvalu 11646 4059.03
+Yemen Sanaa Yemeni Arabe Rial 29000000 2600
+Yibuti Yibuti Yibutiano Frances FrancoYibutiano 973560 3414
+Yugoslavia Belgrado Yugoslavo Esloveno Dinar 2500000 3800
+Samoa	Apia	Samoano	Samoano/Ingles	Tala	195843	5.962
+Samoa_Americana	Pago_Pago	americano-samoano	Samoano/Ingles	Dolar_Estadounidense	55000	1.684
+San_Bartolomé	Gustavia	sanbartolomense	Frances	Euro	9999	9.77
+San_Cristobal_y_Nevis	Basseterre	sancristobaleño	Ingles	Dolar_del_caribe_Oriental	54961	6.59
+San_Marino	San_Marino	sanmarinense	Italiano	Euro	33553	60.651
+San_Martin	Marigot	sanmartinense	Frances	Euro	5600	97.8
+San_Pedro_y_Miquelon	San_Pedro	sanpedrino	Frances	Euro	5808	48.3
+San_Vicente_y_las_Granadinas	Kingstown	sanvicentino	Ingles	Dolar_del_caribe_Oriental	109643	7.123
+Santa_Lucia	Castries	santalucense	Ingles/Criollo_Antillano	Dolar_del_caribe_Oriental	178015	15.25
+Santo_Tome_y_Principe	Santo_Tome	santotomense	Portugues	Dobra	210240	32.20
+Senegal	Dakar	senegales	Frances	Franco	15589485	16.36
+Serbia	Belgrado	serbio	serbio	Dinar	6926705	6.815
+Seychelles	Victoria	seychelense	Frances/Ingles	Rupia_de_Seychelles	98055	2.919
+Sierra_Leona	Freetown	sierraleones	Ingles	Leone	8115829	1.76
+Singapur	Singapur	singapurense	Ingles/Malayo/Chino	Dolar_de_Singapur	5677000	61.776
+Siria	Damasco	sirio	Arabe	Libra_Siria	19064854	11.044
+Somalia	Mogadiscio	somali	Somali/Arabe	Chelin_Somali	14317996	434.1
+Sudafrica	Ciudad_del_cabo	sudafricano	Ingles/Afrikaans/Zulu	Rand	60110000	6.331
+Sudán	Jartum	sudanes	Arabe/Ingles	Libra	40235000	45.78
+Suecia	Estocolmo	sueco	Sueco	Corona_Sueca	10343403	58345
+Suiza	Berna	suizo	Aleman/Frances/Italiano	Franco_Suizo	8603899	61360
+Surinam	Paramaribo	surinames	Neerlandes	Dolar_Surinames	558368	15.362
+Swazilandia	Mbabane	suazi	Suazi/Ingles	Lilangeni	1093238	10.010
+Qatar Doha Catari Arabe Riyal-Catari 2641669 62088
