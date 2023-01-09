@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include"ElemInt.h"
-#include"ListaN.h"
+#include"Lista.h"
 
 int NumElems(Lista);
 void ImpLista(Lista);
@@ -22,17 +22,3 @@ int main(){
     return 0;
 
 }
-
-int NumElems(Lista l){
-    if(esvacia(l))
-        return 0;
-    else
-        return 1+NumElems(resto(l));
-};
-
-void ImpLista(Lista l){
-     if(!esvacia(l)){
-        ImpElem(cabeza(l));
-        ImpLista(resto(l));
-     }
-};

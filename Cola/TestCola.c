@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include"C:\Santiago\ClasesEnLinea\Ago2022\2AV2\Elem\ElemInt.h"
-#include"C:\Santiago\ClasesEnLinea\Ago2022\2AV2\Cola\Cola.h"
+#include"ElemInt.h"
+#include"Cola.h"
 
 int main(){
 
