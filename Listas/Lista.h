@@ -1,6 +1,6 @@
 typedef struct Nodo{
             Elem dato;
-            Lista *sig;
+            struct Nodo *sig;
      } *Lista;
 
 Lista vacia(){return NULL;}
@@ -10,6 +10,10 @@ Lista cons(Elem e, Lista l){
     t->sig=l;
     return t;
 }
+
+int esvacia(Lista l){return l==vacia();}
+Elem cabeza(Lista l){return l->dato;}
+Lista resto(Lista l){return l->sig;}
 
 int NumElems(Lista l){
 	if(esvacia(l))
